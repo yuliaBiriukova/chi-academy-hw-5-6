@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=Laboratory;TrustServerCertificate=true;MultipleActiveResultSets=true;Trusted_Connection=True"
+  }
+}
