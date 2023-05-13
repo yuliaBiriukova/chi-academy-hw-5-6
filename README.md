@@ -1,4 +1,4 @@
-# CHI Academy. Homework 4
+# CHI Academy. Homework 5-6
 
 ### Database management using ADO.NET and EF Core
 
